@@ -2,5 +2,5 @@
 aprendendo sobre pr
 
 # Conteúdo da aula
-- git branc
+- git branch
 - git commands
